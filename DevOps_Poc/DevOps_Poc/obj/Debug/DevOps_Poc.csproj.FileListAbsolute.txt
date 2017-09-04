@@ -1,0 +1,4 @@
+D:\DevOps\DevOps_Poc\DevOps_Poc\bin\DevOps_Poc.dll
+D:\DevOps\DevOps_Poc\DevOps_Poc\bin\DevOps_Poc.pdb
+D:\DevOps\DevOps_Poc\DevOps_Poc\obj\Debug\DevOps_Poc.dll
+D:\DevOps\DevOps_Poc\DevOps_Poc\obj\Debug\DevOps_Poc.pdb
